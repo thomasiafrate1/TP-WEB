@@ -1,0 +1,64 @@
+
+body{
+    background-image: url("jungle.png");
+    color: white;
+    background-repeat: no-repeat;
+    background-size:cover;
+
+}
+.btn-bleu{
+    border:black;
+    color:white;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 1rem;
+    margin: 35px 250px;
+    border-radius: 0rem;
+    font-family:Arial, Helvetica, sans-serif;
+    border-color: black;
+    border-style:dotted;
+    background-color: darkslategray;
+    margin-bottom: 150x;
+    
+}
+
+
+.btn-marron{
+    border:black;
+    color:white;
+    padding: 1rem;
+    text-align: center;
+    text-decoration: none;
+    display:inline-block;
+    font-size: 1rem;
+    margin: 35px 250px;
+    border-radius: 0rem;
+    font-family:Arial, Helvetica, sans-serif;
+    border-color: black;
+    border-style:dotted;
+    background-color:pink ;   
+    margin-top: 520px;
+    margin-bottom: 155px;
+}
+
+h1{
+    display: block;
+    text-align: center;
+    font-size:100px;
+    position: absolute;
+    top:100px;
+    right: 480px;     
+}
+
+h2{
+    display: block;
+    text-align: center;
+    font-size:30px;
+    position: absolute;
+    top:330px;
+    right:300px;   
+    left: 250px;  
+}
+
